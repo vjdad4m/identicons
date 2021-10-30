@@ -15,19 +15,22 @@
 <img src="out/fcebcda49cd43a533893f6f85959ba65c033ff54fab87919cd339f3dd43ed937.png" />
 </p>
 
-### Setup:
+## Setup:
 
 ```
 git clone https://github.com/vjdad4m/identicons.git
-
+```
+```
 cd identicons
-
+```
+```
 pip3 install -r requirements.txt
-
+```
+```
 chmod +x generator.py
 ```
 
-### Usage:
+## Usage:
 
 ```
 /generator.py
