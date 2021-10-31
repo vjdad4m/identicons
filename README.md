@@ -36,7 +36,7 @@ chmod +x generator.py
 /generator.py
 
 Enter width and height (separated by spaces): 16 16
--> There are 530,604,000 unique combinations. The chance of generating the same combination is 0.00000018846446690941%
+-> There are 2,122,416,000 unique combinations. The chance of generating the same combination is 0.00000004711611672735%
 How many images would you like to generate? 8
 Generated 8 images. Saved to './out/
 ```
